@@ -1,4 +1,4 @@
-# Directory Search
+# Owl File Search
 ## Overview
 This application is used to find a specific file or directory quickly via its search parameters.
 Searching for a file and selecting it, the user can open the file location which highlights the selected file in explorer. 
