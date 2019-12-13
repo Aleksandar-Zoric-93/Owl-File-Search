@@ -8,6 +8,6 @@ This is useful for users with a large amount of files on their machine and wish 
 
 The application size is small and simple to install via the setup file included. Doing so will create a desktop shortcut for quick access.
 
-![alt text](http://owlfilesearch.com/images/owlMedium.png)
+![alt text](http://owlfilesearch.com/images/fulls/02.PNG)
 
 Download link: http://owlfilesearch.com/
